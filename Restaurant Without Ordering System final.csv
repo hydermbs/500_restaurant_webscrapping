@@ -1,0 +1,1460 @@
+,Unnamed: 0,Name,Cusines,Dining_style,Phone number,Website,Payment Options,Address,City,PostCode,website_status,Online_order,online_order
+1,1,"
+The Havelock Tavern
+",British,Casual Dining,+44 20 7603 5374,http://www.havelocktavern.com/,"AMEX, Mastercard, Visa","
+57 Masbro Road", London," W14 0LS
+",True,False,False
+2,2,"
+Arena Restaurant Wembley
+",Greek,Casual Dining,+44 20 8902 1898,http://www.arenarestaurant.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+307 Harrow Road", London," HA9 6BD
+",True,False,False
+4,4,"
+Cambio de Tercio
+",Spanish,Casual Dining,+44 20 7244 8970,http://www.cambiodeterciogroup.co.uk/,"AMEX, Mastercard, Visa","
+163 Old Brompton Road", London," SW5 0LJ
+",True,False,False
+5,5,"
+Capote y Toros
+",Spanish,Casual Dining,+44 20 7373 0567,http://www.cambiodeterciogroup.co.uk/,"AMEX, Mastercard, Visa","
+157 Old Brompton Road", London," SW5 0LJ
+",True,False,False
+6,6,"
+Tendido Cero
+",Spanish,Casual Dining,+44 20 7370 3685,http://www.cambiodeterciogroup.co.uk/,"AMEX, Mastercard, Visa","
+174 Old Brompton Road", London," SW5 0BA
+",True,False,False
+7,7,"
+Orjowan
+",Lebanese,Casual Dining,+44 20 7370 3074,http://www.orjowan.co.uk/,"Mastercard, Visa","
+6-8 Kenway Road", London," SW5 0RR
+",True,False,False
+8,8,"
+Big Easy Covent Garden
+","American, Barbecue, Seafood",Casual Dining,+44 20 4580 1173,http://www.bigeasy.co.uk/,"AMEX, Mastercard, Visa","
+12 Maiden Lane Covent Garden", London," WC2E 7NA
+",True,False,False
+9,9,"
+Apulia
+","Mediterranean, Italian, Pizzeria",Casual Dining,+44 20 7600 8107,http://www.apuliarestaurant.co.uk/,"AMEX, Mastercard, Visa","
+50 Long Lane", London," EC1A 9EJ
+",True,False,False
+10,10,"
+Iberica Farringdon
+","Spanish, Tapas / Small Plates, Mediterranean",Casual Dining,+44 20 3026 5118,http://www.ibericarestaurants.com/,"AMEX, Mastercard, Visa","
+89 Turnmill Street", London," EC1M 5QU
+",True,False,False
+11,11,"
+Mountain View Restaurant
+","Indian, Nepalese",Casual Dining,+44 20 8858 0227,http://mountainviewgreenwich.co.uk/,"AMEX, Mastercard, Visa","
+160 Trafalgar Road", London," SE10 9TZ
+",True,False,False
+12,14,"
+Pix Notting Hill
+",Tapas / Small Plates,Casual Dining,+44 20 7727 6978,http://www.pix-bar.com/nottinghill.html,"AMEX, Mastercard, Visa","
+185 Portobello Road", London," W11 2ED
+",True,False,False
+13,16,"
+Harar Restaurant
+","Ethiopian, English, Thaï",Casual Dining,+44 20 7735 8915,http://www.hararrestaurant.co.uk/,"Mastercard, Visa","
+49 South Lambeth Road", London," SW8 1RH
+",True,False,False
+14,18,"
+Siracusa Italian Kitchen
+",British,Casual Dining,+44 20 7734 8040,http://www.fortnumandmason.co.uk/,"AMEX, Mastercard, Visa","
+High Street", London," TW8 8LF
+",True,False,False
+17,21,"
+Bloody Bens
+","Tapas / Small Plates, Cocktail bar, Distillery",Casual Dining,+44 20 8944 0452,http://www.bloodybens.com/,"AMEX, Mastercard, Visa","
+422 Garratt Lane", London," SW18 4HW
+",True,False,False
+18,23,"
+Wild Mango in Kent
+",Indian,Casual Dining,+44 20 8793 3502,http://www.wildmango.co.uk/,"Mastercard, Visa","
+243 High Street", London," BR3 1BN
+",True,False,False
+20,25,"
+Lyle's Restaurant
+",British,Casual Dining,+44 20 3011 5911,http://lyleslondon.com/,"AMEX, Mastercard, Visa","
+56 Shoreditch High Street", London," E1 6JJ
+",True,False,False
+21,26,"
+Social 24
+",Contemporary British,Casual Dining,+44 20 7877 7703,http://www.citysociallondon.com/,"AMEX, Mastercard, Visa","
+25 Old Broad Street Tower 42", London," EC2N 1HT
+",True,False,False
+22,28,"
+Super Star
+",Chinese,Casual Dining,+44 20 7287 3822,http://www.superstarrestaurant.com/,"Mastercard, Visa","
+17 Lisle street", London," WC2H 7BE
+",True,False,False
+23,30,"
+The India Gate
+","Indian, Nepalese",Casual Dining,+44 20 8699 9345,http://www.theindiagaterestaurant.co.uk/,"Mastercard, Visa","
+47 London Rd Forrest Hill", London," SE23 3TY
+",True,False,False
+24,31,"
+BOMBAY CHOW
+","Chinese, Fusion / Eclectic",Casual Dining,+44 20 8741 0292,http://www.bombaychow.co.uk/,"Mastercard, Visa","
+220 King Street", London," W6 0RA
+",True,False,False
+25,32,"
+Ham Yard Bar and Restaurant
+","Modern European, British",Casual Dining,+44 20 3642 1007,http://www.hamyardhotel.com/,"AMEX, Carte Blanche, Diners Club, Discover, JCB, Mastercard, Visa","
+One Ham Yard", London," W1D 7DT
+",True,False,False
+26,33,"
+Alex Dilling at Hotel Café Royal
+","French, Contemporary European, Modern European",Casual Dining,+44 20 7459 4022,https://alexdilling.com/,"AMEX, Mastercard, Visa","
+68 Regent St.", London," W1B 4DY
+",True,False,False
+27,34,"
+The Blues Kitchen - Shoreditch
+",American,Casual Dining,+44 20 7729 7216,http://www.theblueskitchen.com/,"Mastercard, Visa","
+The Blues Kitchen 134 Curtain Road", London," EC2A 3AR
+",True,False,False
+29,37,"
+La Pizzeria Italiana
+","Italian, Pizzeria, Seafood",Casual Dining,+44 20 8461 4606,http://www.lapizzaitalia.com/,"AMEX, JCB, Mastercard, Visa","
+3", Eros House Brownhill Rd, London,True,False,False
+30,38,"
+Pix - Covent Garden
+",Tapas / Small Plates,Casual Dining,+44 20 7836 9779,http://www.pix-bar.com/,"AMEX, Mastercard, Visa","
+63 Neal Street", London," WC2H 9PJ
+",True,False,False
+31,39,"
+The City Barge
+","Gastro Pub, Seafood",Casual Dining,+44 20 8994 2148,http://www.citybargechiswick.com/,"AMEX, Mastercard, Visa","
+27 Strand on the Green", London," W4 3PH
+",True,False,False
+32,41,"
+Sweet Thursday
+","Pizzeria, Italian",Casual Dining,+44 20 7226 1727,http://www.sweetthursday.co.uk/,"Cash not accepted, Mastercard, Visa","
+95 Southgate Road", London," N1 3JS
+",True,False,False
+33,42,"
+The Scolt Head
+",British,Casual Dining,+44 20 7254 3965,http://www.thescolthead.co.uk/contact.htm,"Mastercard, Visa","
+107A Culford Road", London," N1 4HT
+",True,False,False
+34,44,"
+The Wine Place - South Kensington
+","Japanese, Asian, Pan-Asian",Casual Dining,+44 20 7730 7043,http://www.italianwines.com/,"AMEX, Mastercard, Visa","
+72 Old Brompton Road", London," SW7 3LQ
+",True,False,False
+35,45,"
+Corner Room
+","Contemporary British, European",Casual Dining,+44 20 8709 4525,https://www.townhallhotel.com/food-and-drink/corner_room,"AMEX, Mastercard, Visa","
+Town Hall Hotel Patriot Square", London," E2 9NF
+",True,False,False
+36,46,"
+Bife
+","Steakhouse, Bar / Lounge / Bottle Service, Argentinian",Casual Dining,+44 20 7650 7948,http://www.bife.co.uk/,"AMEX, Mastercard, Visa","
+40-42 Middlesex Street", London," E1 7EX
+",True,False,False
+37,48,"
+Omnino Leadenhall
+",Steak,Casual Dining,+44 20 3538 3530,http://www.omninorestaurants.com/,"AMEX, Mastercard, Visa","
+78-79 Leadenhall Street", London," EC3A 3DH
+",True,False,False
+38,49,"
+Boot and Flogger
+","British, Winery, Wine Bar",Casual Dining,+44 20 7407 1184,http://www.davy.co.uk/bootandflogger,"AMEX, Mastercard, Visa","
+10-20 Redcross Way", London," SE1 1TA
+",True,False,False
+39,50,"
+The Factory House
+","British, Breakfast, Steakhouse",Casual Dining,+44 20 7929 4590,http://www.davy.co.uk/wine-bar/factory-house/,"AMEX, Mastercard, Visa","
+No. 10 Lime Street", London," EC3M 7AA
+",True,False,False
+40,51,"
+Davy's at Plantation Place
+","British, Wine Bar, Winery",Casual Dining,+44 20 7621 9878,http://www.davy.co.uk/plantationplace,"AMEX, Mastercard, Visa","
+Unit 8", London," EC3R 7BD
+",True,False,False
+41,52,"
+The Bunghole Cellars
+","British, Wine Bar, Winery",Casual Dining,+44 20 7831 8365,https://www.davy.co.uk/bunghole-cellars/,"AMEX, Mastercard, Visa","
+57 High Holborn", London," WC1V 6DT
+",True,False,False
+42,53,"
+Sorella
+",Italian,Casual Dining,+44 20 7720 4662,http://www.sorellarestaurant.co.uk/,"Mastercard, Visa","
+148 Clapham Manor Street", London," SW4 6BX
+",True,False,False
+43,56,"
+Blades Restaurant
+",Italian,Casual Dining,+44 20 8789 0869,http://www.bladesrestaurant.co.uk/,"Mastercard, Visa","
+94 Lower Richmond Road Putney", London," SW15 1LL
+",True,False,False
+44,58,"
+The Duke
+","British, Gastro Pub",Casual Dining,+44 20 8989 0014,http://thedukewanstead.com/,"AMEX, Mastercard, Visa","
+79 Nightingale Lane", London," E11 2EY
+",True,False,False
+45,59,"
+Twist
+","Tapas / Small Plates, Mediterranean, Steak",Casual Dining,+44 20 7723 3377,http://www.twistkitchen.co.uk/,"AMEX, Mastercard, Visa","
+42 Crawford Street", London," W1H 1JW
+",True,False,False
+46,60,"
+Pix Confessional Cocktail Club
+",Tapas / Small Plates,Casual Dining,+44 20 7727 6978,http://www.pix-bar.com/,"Mastercard, Visa","
+185 Portobello Road", London," W11 2ED
+",True,False,False
+47,61,"
+The Rajdoot
+","Indian, Contemporary Indian, Southeast Asian",Casual Dining,+44 20 7486 2055,http://therajdootindian.com/,"AMEX, Mastercard, Visa","
+49 Paddington St", London," W1U 4HW
+",True,False,False
+49,64,"
+Pachamama
+","Peruvian, Contemporary Latin American, Tapas / Small Plates",Casual Dining,+44 20 7935 9393,http://www.pachamamalondon.com/,"AMEX, Diners Club, JCB, Mastercard, Visa","
+18 Thayer Street", London," W1U 3JY
+",True,False,False
+50,66,"
+Senor Ceviche - Carnaby
+","Peruvian, South American, Tapas / Small Plates",Casual Dining,+44 20 7842 8540,http://www.senor-ceviche.com/,"AMEX, Mastercard, Visa","
+Kingly Court", London," W1B 5PW
+",True,False,False
+51,69,"
+The Duke Of Cambridge
+","British, Organic",Casual Dining,+44 20 7359 3066,http://www.dukeorganic.co.uk/,"AMEX, Mastercard, Visa","
+30 St Peter's Street", London," N1 8JT
+",True,False,False
+52,72,"
+Jinjuu Soho
+","Korean, Asian, Fusion / Eclectic",Casual Dining,+44 20 8181 8887,http://www.jinjuu.com/,"AMEX, Mastercard, Visa","
+15 Kingly Street", London," W1B 5PS
+",True,False,False
+53,73,"
+Tredwells
+","British, Contemporary British, Vegetarian / Vegan",Casual Dining,+44 20 3764 0840,http://www.tredwells.com/,"AMEX, Mastercard, Visa","
+4A Upper St Martins Lane", London," WC2H 9NY
+",True,False,False
+54,75,"
+Tapa Tapa
+","Tapas / Small Plates, Spanish, European",Casual Dining,+44 20 7473 4874,http://www.tapatapa.com/,"AMEX, Mastercard, Visa","
+Unit R4", Warehouse K, Western Gateway,True,False,False
+55,76,"
+Yida Sushi Restaurant
+",Japanese,Casual Dining,+44 20 8617 9949,http://www.yidasushi.uk/,"Mastercard, Visa","
+246 St Paul's Rd", London," N1 2LJ
+",True,False,False
+56,77,"
+Yama Momo
+","Japanese, Asian",Casual Dining,+44 20 8299 1007,http://www.yamamomo.co.uk/,"AMEX, Mastercard, Visa","
+72 Lordship Lane", London," SE22 8HF
+",True,False,False
+57,78,"
+Bugis Street Brasserie at Millennium Gloucester Hotel
+","Southeast Asian, Chinese",Casual Dining,+44 20 7331 6211,http://www.millenniumhotels.co.uk/millenniumglouce,"AMEX, Diners Club, JCB, Mastercard, Visa","
+Millennium Gloucester Hotel Courtfield Road", London," SW7 4LH
+",True,False,False
+59,80,"
+Pino
+","Italian, Wine Bar, Tapas / Small Plates",Casual Dining,+44 20 7602 6777,http://www.pinobar.co.uk/,"AMEX, Mastercard, Visa","
+267 Kensington High Street", London," W8 6NA
+",True,False,False
+60,81,"
+Shampan Welling
+","Indian, Halal",Casual Dining,+44 20 8304 9569,http://www.shampangroup.co.uk/,"AMEX, Mastercard, Visa","
+8 Falconwood Parade", London," DA16 2PL
+",True,False,False
+61,82,"
+Hixter Bankside Restaurant & Bar
+","British, Steak, Asian",Casual Dining,+44 20 7921 9508,http://www.hixterbankside.co.uk/,"AMEX, Mastercard, Visa","
+16 Great Guildford Street", London," SE1 0HS
+",True,False,False
+62,83,"
+Cepages
+","French, Tapas / Small Plates, Bistro",Casual Dining,+44 20 3602 8890,http://cepages.co.uk/,"AMEX, Mastercard, Visa","
+69 Westbourne Park Road", London," W2 5QH
+",True,False,False
+63,86,"
+Laxeiro
+","Spanish, European, Vegetarian",Casual Dining,+44 20 7729 1147,http://www.laxeiro.co.uk/,"Mastercard, Visa","
+93 Columbia Road", London," E2 7RG
+",True,False,False
+64,87,"
+Zelman Meats
+","Meat, Steak, Barbecue",Casual Dining,+44 20 7437 0566,http://www.zelmanmeats.com/,"AMEX, Mastercard, Visa","
+2 St Anne""s Court", London," W1F 0AZ
+",True,False,False
+65,88,"
+The Arber Garden
+","British, European",Casual Dining,+44 20 3761 0200,https://www.thearbergarden.co.uk/,"AMEX, Mastercard, Visa","
+1 Pearson Square", London," W1W 7EY
+",True,False,False
+66,89,"
+Li Veli Winery & Bistro
+","Italian, Mediterranean, Bar / Lounge / Bottle Service",Casual Dining,+44 20 7240 8163,http://www.liveli.co.uk/,"AMEX, Mastercard, Visa","
+69 Long Acre", London," WC2E 9JS
+",True,False,False
+68,91,"
+The Crown & Anchor
+","British, Beer Garden, Bar / Lounge / Bottle Service",Casual Dining,+44 20 7737 0060,http://www.crownandanchorbrixton.co.uk/,"AMEX, Mastercard, Visa","
+246 Brixton Road", London," SW9 6AQ
+",True,False,False
+69,95,"
+Bang Bang Vietnamese Canteen
+","Vietnamese, Asian",Casual Dining,+44 20 7388 3629,http://www.bangbangcanteen.co.uk/,"AMEX, Mastercard, Visa","
+53 Warren Street", London," W1T 5NL
+",True,False,False
+70,98,"
+Nam Long Le Shaker
+","Pan-Asian, Asian, Vietnamese",Casual Dining,+44 20 7373 1926,http://www.namlong.co.uk/,"AMEX, Mastercard, Visa","
+159 Old Brompton Road", London," SW5 0LJ
+",True,False,False
+71,99,"
+Panshi Hinchley Wood
+",Indian,Casual Dining,+44 20 8398 8585,http://www.thepanshi.co.uk/,"Mastercard, Visa","
+7 Station Approach", London," KT10 0SP
+",True,False,False
+72,100,"
+The Botanist Broadgate Circle
+",British,Casual Dining,+44 20 3058 9888,http://www.thebotanistbroadgate.com/,"AMEX, Mastercard, Visa","
+Unit T5", London," EC2M 2QS
+",True,False,False
+73,101,"
+Café Murano – Covent Garden Dining Counter
+","Italian, Italian",Casual Dining,+44 20 7240 3654,http://www.cafemurano.co.uk/,"AMEX, Mastercard, Visa","
+36 Tavistock Street", London," WC2E 7PB
+",True,False,False
+74,103,"
+Camino Bankside
+",Spanish,Casual Dining,+44 20 3617 3169,http://www.camino.uk.com/,"AMEX, Mastercard, Visa","
+5 Canvey Street", London," SE1 9
+",True,False,False
+76,105,"
+Wright Brothers - South Kensington
+","Seafood, Fish",Casual Dining,+44 20 7581 0131,http://www.thewrightbrothers.co.uk/,"AMEX, Mastercard, Visa","
+56 Old Brompton Road", London," SW7 3DY
+",True,False,False
+77,106,"
+Hungry Donkey
+","Greek, Vegetarian, Mediterranean",Casual Dining,+44 20 7392 9649,http://www.hungrydonkey.co.uk/,"AMEX, Mastercard, Visa","
+56 Wentworth street", London," E1 7AL
+",True,False,False
+79,109,"
+Yauatcha City (Sharing Tables)
+",Chinese,Casual Dining,+44 20 3817 9888,http://www.yauatcha.com/,"AMEX, Mastercard, Visa","
+Broadgate Circle", London," EC2M 2QS
+",True,False,False
+80,110,"
+Yauatcha City
+",Chinese,Casual Dining,+44 20 3817 9888,http://www.yauatcha.com/,"AMEX, Mastercard, Visa","
+Broadgate Circle", London," EC2M 2QS
+",True,False,False
+82,112,"
+LOBOS Meat & Tapas - Borough
+",Spanish,Casual Dining,+44 20 7407 5361,http://www.lobostapas.co.uk/,"AMEX, Mastercard, Visa","
+14 Borough High Street", London," SE1 9QG
+",True,False,False
+83,116,"
+Black Roe
+","Asian, Global, International, Sushi",Casual Dining,+44 20 3794 8448,http://www.blackroe.com/,"AMEX, Mastercard, Visa","
+4 Mill Street", London," W1S 2AX
+",True,False,False
+84,118,"
+Theo Simple Italian Afternoon Tea
+","Italian, Afternoon Tea",Casual Dining,+44 20 7370 9130,http://www.theossimpleitalian.co.uk/italian-afternoon-tea,"Mastercard, Visa","
+34-44 Barkston Gardens", London," SW5 0EW
+",True,False,False
+86,121,"
+Afternoon Tea at Flemings Mayfair
+","Afternoon Tea, European",Casual Dining,+44 20 7016 5601,https://www.flemings-mayfair.co.uk/fine-dining-london/the-drawing-room,"AMEX, Diners Club, Discover, JCB, Mastercard, Visa","
+7-12 Half Moon St", London," W1J 7BH
+",True,False,False
+87,122,"
+Pidgin
+","Modern European, British, International",Casual Dining,+44 20 7254 8311,http://www.pidginlondon.com/,"AMEX, Mastercard, Visa","
+52 Wilton Way", London," E8 1BG
+",True,False,False
+88,124,"
+The Italian Greyhound
+","Italian, British",Casual Dining,+44 20 3826 7940,http://theitaliangreyhound.co.uk/,"AMEX, Mastercard, Visa","
+62-64 Seymour Street", London," W1H 5BN
+",True,False,False
+89,125,"
+ZIMA Russian Restaurant
+","Russian, Eastern European, Contemporary European",Casual Dining,+44 20 7494 9111,http://zima.restaurant/,"AMEX, Mastercard, Visa","
+45 Frith Street", London," W1D 4SD
+",True,False,False
+91,130,"
+Dan&Angel Restaurant
+","Pizza Bar, Mediterranean, Vegetarian / Vegan",Casual Dining,+44 20 7738 1222,http://www.dnarestaurant.uk/,"AMEX, Mastercard, Visa","
+143 St John Hill", London," SW11 1TQ
+",True,False,False
+92,131,"
+Arlo's Balham
+","Steak, Vegetarian, British",Casual Dining,+44 20 3019 6590,http://www.arlos.co.uk/,"Mastercard, Visa","
+1 Ramsden Road", London," SW12 8QX
+",True,False,False
+93,133,"
+TOZI Victoria
+",Italian,Casual Dining,+44 20 7769 9771,http://www.tozirestaurant.co.uk/home,"AMEX, Diners Club, Discover, JCB, Mastercard, Visa","
+8 Gillingham Street", London," SW1V 1HJ
+",True,False,False
+94,135,"
+Delicious by Franco
+",Italian,Casual Dining,+44 20 7482 3460,http://www.deliciousbyfranco.co.uk/,"Mastercard, Visa","
+320 Kentish Town Road", London," NW5 2HT
+",True,False,False
+95,136,"
+Orford Road Tapas
+","Spanish, Latin / Spanish, Mediterranean",Casual Dining,+44 20 8503 6542,http://orfordtapas.co.uk/,"AMEX, Mastercard, Visa","
+32 Orford Road", London," E17 9NJ
+",True,False,False
+96,137,"
+Iberica Victoria
+","Spanish, Tapas / Small Plates, Mediterranean",Casual Dining,+44 20 3026 5118,http://www.ibericarestaurants.com/,"AMEX, Mastercard, Visa","
+5-6 Zig Zag Building", London," SW1E 6SQ
+",True,False,False
+97,138,"
+The Market Thai
+","Spanish, Tapas / Small Plates, Mediterranean",Casual Dining,+44 20 3026 5118,http://www.ibericarestaurants.com/,"Mastercard, Visa","
+240 Portobello Rd", London," W11 1LL
+",True,False,False
+98,139,"
+SUSHINOEN
+",Japanese,Casual Dining,+44 20 3645 6734,http://www.sushinoen.com/,"AMEX, JCB, Mastercard, Visa","
+2 White Church Ln", London," E1 7QR
+",True,False,False
+100,141,"
+Social Wine and Tapas
+","Tapas / Small Plates, British",Casual Dining,+44 20 7993 3257,http://www.socialwineandtapas.com/,"AMEX, Mastercard, Visa","
+39 James Street", London," W1U 1DL
+",True,False,False
+101,142,"
+El Inca Plebeyo
+","Latin American, South American, Fusion / Eclectic",Casual Dining,+44 20 7704 9393,http://www.elincaplebeyo.co.uk/,"Mastercard, Pay with OpenTable, Visa","
+162 Essex Road", London," N1 8LY
+",True,False,False
+103,145,"
+Bnova
+",Indian,Casual Dining,+44 20 8905 6966,http://bnova.co.uk/,"Mastercard, Visa","
+865 Honeypot Ln", London," HA7 1AR
+",True,False,False
+104,147,"
+Cacio & Pepe
+","Italian, Mediterranean, European",Casual Dining,+44 20 7630 7588,http://www.cacioepepe.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+46 Churton Street", London," SW1V 2LP
+",True,False,False
+105,149,"
+Cafe Amaranth
+","Thaï, Indonesian / Malaysian, Asian",Casual Dining,+44 20 8874 9036,http://www.cafeamaranth.co.uk/,"Mastercard, Visa","
+346-348 Garratt Lane", London," SW18 4ES
+",True,False,False
+106,151,"
+Buenos Aires Cafe - Greenwich
+","Argentinian, Steak",Casual Dining,+44 20 8858 9172,http://buenosairescafe.co.uk/,"Mastercard, Visa","
+15 Nelson Road Greenwich Peninsula", London," SE10 9JB
+",True,False,False
+107,152,"
+Buenos Aires Cafe - Blackheath
+","Argentinian, Steak, Pizzeria",Casual Dining,+44 20 8318 5333,http://www.buenosairescafe.co.uk/,"Mastercard, Visa","
+17 Royal Parade", London," SE3 0TL
+",True,False,False
+110,156,"
+Blues Kitchen Brixton - Drinks Tables
+","American, Burgers, Barbecue",Casual Dining,+44 20 7274 0591,https://theblueskitchen.com/brixton/listings/,"Mastercard, Visa","
+40 Acre Lane", London," SW2 5SP
+",True,False,False
+111,159,"
+The One Tun
+",Pan-Asian,Casual Dining,+44 20 7405 1521,http://www.onetun.co.uk/,"AMEX, Mastercard, Visa","
+125/6 Saffron Hill", London," EC1N 8QS
+",True,False,False
+112,160,"
+Suchard Thai Restaurant
+",Thaï,Casual Dining,+44 20 7357 6381,http://www.suchardthai.co.uk/,"Mastercard, Visa","
+102 Tooley Street London Bridge", London," SE1 2TH
+",True,False,False
+113,165,"
+Foxlow Balham
+","British, International",Casual Dining,+44 20 7680 2700,http://www.foxlow.co.uk/,"AMEX, Mastercard, Visa","
+15-19 Bedford Hill", London," SW12 9EX
+",True,False,False
+115,167,"
+Fiddie's
+",Italian,Casual Dining,+44 20 7586 5050,http://www.fiddiesitaliankitchen.com/,"Mastercard, Visa","
+13 New College Parade", London," NW3 5EP
+",True,False,False
+116,168,"
+Oaka at The Mansion House
+",Pan-Asian,Casual Dining,+44 20 7582 5599,http://www.oakalondon.com/about,"AMEX, Mastercard, Visa","
+48 Kennington Park Road", London," SW11 4RS
+",True,False,False
+117,170,"
+Kintan
+","Japanese, Barbecue, Japanese (Yakiniku)",Casual Dining,+44 20 7242 8076,http://kintan.uk/,"AMEX, Mastercard, Visa","
+34 High Holborn", London," WC1V 6AE
+",True,False,False
+118,171,"
+Lisa's Italian
+",Italian,Casual Dining,+44 20 8964 8293,http://www.lisasportobello.com/,"AMEX, Mastercard, Visa","
+305 Portobello Road", London," W10 5TD
+",True,False,False
+120,173,"
+Gunpowder
+",Indian,Casual Dining,+44 20 7426 0542,http://www.gunpowderlondon.com/,"Mastercard, Visa","
+11 White's Row", London," E1 7NF
+",True,False,False
+124,178,"
+Mesi's Kitchen
+",Ethiopian,Casual Dining,+44 7522 425852,http://www.mesiskitchen.com/,"Mastercard, Visa","
+128 Holloway Road", London," N7 8JE
+",True,False,False
+125,179,"
+Union Viet
+","Vietnamese, Asian",Casual Dining,+44 20 3302 8828,http://www.unionviet.com/,"AMEX, Carte Blanche, Diners Club, Discover, JCB, Mastercard, Visa","
+120 Union St", London," SE1 0FR
+",True,False,False
+126,182,"
+Hobson's Fish and Chips Restaurant
+","British, Seafood",Casual Dining,+44 20 7229 4161,http://www.hobsonsfishandchips.com/,"Mastercard, Visa","
+9 Porchestor Road", London," W2 5DP
+",True,False,False
+127,183,"
+Le Bar
+","French, Bar / Lounge / Bottle Service",Casual Dining,+44 20 7600 7561,http://lebarlondon.co.uk/,"AMEX, Mastercard, Visa","
+59 West Smithfield", London," EC1A 9DS
+",True,False,False
+128,185,"
+Beef & Brew, Kentish Town
+",Steak,Casual Dining,+44 20 7998 1511,http://www.beef-and-brew.co.uk/,"Mastercard, Visa","
+323 Kentish Town Road", London," NW5 2TJ
+",True,False,False
+129,187,"
+Rudie's
+","Jamaican, Caribbean",Casual Dining,+44 20 7249 9930,http://www.rudieslondon.com/,"AMEX, Mastercard, Visa","
+50 Stoke Newington Road", London," N16 7XB
+",True,False,False
+130,188,"
+RustiKo Soho
+",Italian,Casual Dining,+44 20 7734 6361,http://www.rustikosoho.com/,"AMEX, Mastercard, Visa","
+37 Old Compton Street", London," W1D 5JY
+",True,False,False
+131,189,"
+Bellillo UK
+","Italian, Pizzeria, Farm-to-table",Casual Dining,+44 20 7381 1411,https://bellillo.co.uk/london/,"AMEX, Diners Club, Discover, Mastercard, Visa","
+255 Munster Road", London," SW6 6BW
+",True,False,False
+132,191,"
+Salut! - Islington
+","Modern European, French, British",Casual Dining,+44 20 3441 8808,http://www.salut-london.co.uk/,"Mastercard, Visa","
+412 Essex Road", London," N1 3PJ
+",True,False,False
+133,192,"
+The Lighterman
+","British, European",Casual Dining,+44 20 3846 3400,http://www.thelighterman.co.uk/,"AMEX, Mastercard, Visa","
+3 Granary Square", London," N1C 4BH
+",True,False,False
+134,193,"
+Obicà Mozzarella Bar - St Pauls
+","Italian, Mediterranean, Pizzeria",Casual Dining,+44 20 3146 2261,http://www.obica.com/,"AMEX, Mastercard, Visa","
+Unit 4", London," EC4M 7AX
+",True,False,False
+135,194,"
+El Vino at Fleet Street
+","Tapas / Small Plates, Wine Bar, Winery",Casual Dining,+44 20 7353 6786,https://www.davy.co.uk/wine-bar/el-vino-fleet-street/,"AMEX, Mastercard, Visa","
+47 Fleet Street", London," EC4Y 1BJ
+",True,False,False
+136,198,"
+Tarshish
+","Turkish, Mediterranean",Casual Dining,+44 20 8881 6479,http://www.tarshish.co.uk/,"Mastercard, Visa","
+16 - 20 High Road", London," N22 6BX
+",True,False,False
+137,199,"
+Caffe Concerto Northumberland Avenue
+","Cafe Dining, Italian",Casual Dining,+44 20 7494 6851,https://www.caffeconcerto.co.uk/restaurant/northumberland-avenue.html,"Mastercard, Visa","
+4-5 Northumberland Ave", London," WC2N 5BW
+",True,False,False
+138,200,"
+Angoletto
+",Italian,Casual Dining,+44 20 7978 2231,http://www.angoletto.co.uk/,"Mastercard, Visa","
+50 Battersea Park Road", London," SW11 4JP
+",True,False,False
+139,201,"
+MK Bar and Grill
+","Italian, Modern European",Casual Dining,+44 20 7589 1383,http://www.huxbrasserie.com/,"AMEX, Mastercard, Visa","
+25-35 Gloucester Road", London," SW7 4PL
+",True,False,False
+140,203,"
+MNKY HSE
+",Latin American,Casual Dining,+44 20 3870 4880,http://www.mnky-hse.com/,"AMEX, Discover, JCB, Mastercard, Visa","
+10 Dover St", London," W1S 4LQ
+",True,False,False
+141,204,"
+Al Forno - Shepherd's Bush
+",Latin American,Casual Dining,+44 20 3870 4880,http://www.mnky-hse.com/,"AMEX, Mastercard, Visa","
+3 - 4 Romney Court", London," W12 8PY
+",True,False,False
+142,205,"
+Band of Burgers
+",Burgers,Casual Dining,+44 20 7387 3898,http://bandofburgers.co.uk/,"Mastercard, Visa","
+23 Camden High Street", London," NW1 7JE
+",True,False,False
+143,206,"
+The Westbury
+","British, Bar / Lounge / Bottle Service, Beer Garden",Casual Dining,+44 20 8889 2059,http://www.westburyn22.com/,"Mastercard, Visa","
+57 Westbury Avenue", London," N22 6SA
+",True,False,False
+144,208,"
+Cafe Monico
+",International,Casual Dining,+44 20 3727 6161,http://www.cafemonico.com/,"Mastercard, Visa","
+39-45 Shaftesbury Avenue", London," W1D 6LA
+",True,False,False
+145,209,"
+Steam Restaurant
+","Chinese, Dim Sum",Casual Dining,+44 20 3490 2300,http://www.steamrestaurant.co.uk/,"AMEX, Mastercard, Visa","
+177 King street", London," W6 9JT
+",True,False,False
+147,211,"
+Luppolo
+","Pizzeria, Italian",Casual Dining,+44 20 8530 8528,http://www.luppolopizza.com/,"AMEX, Cash not accepted, Mastercard, Visa","
+36-38 High Street Wanstead", London," E11 2RJ
+",True,False,False
+148,212,"
+Blacklock Soho
+","Steak, Barbecue, British",Casual Dining,+44 20 3441 6996,http://theblacklock.com/soho/,"AMEX, Mastercard, Visa","
+24 Great Windmill Street", London," W1D 7LG
+",True,False,False
+149,213,"
+Sirous Steak and Persian Cuisine Restaurant
+","Steakhouse, Grill, Vegetarian / Vegan",Casual Dining,+44 20 7435 8164,http://www.sirous.co.uk/,"AMEX, Mastercard, Visa","
+268 West End Lane", London," NW6 1LJ
+",True,False,False
+150,214,"
+Blandford Comptoir
+","Mediterranean, French",Casual Dining,+44 20 7935 4626,http://www.blandford-comptoir.co.uk/,"AMEX, Mastercard, Visa","
+1 Blandford Street", London," W1U 3DA
+",True,False,False
+151,216,"
+Franks Canteen
+","European, British, Contemporary European",Casual Dining,+44 20 7354 4830,http://www.frankscanteen.com/,"AMEX, Cash not accepted, Mastercard, Visa","
+86 Highbury Park", London," N5 2XE
+",True,False,False
+154,222,"
+som saa
+",Thaï,Casual Dining,+44 20 7324 7790,http://www.somsaa.com/,"AMEX, Mastercard, Visa","
+43A Commercial Street", London," E1 6BD
+",True,False,False
+155,223,"
+Buonasera
+","Italian, Pizzeria",Casual Dining,+44 20 7228 9925,http://buonasera.co.uk/,"Mastercard, Visa","
+22-26 Northcote Road", London," SW11 1NX
+",True,False,False
+156,224,"
+The Jam
+",Italian,Casual Dining,+44 20 7352 8827,http://www.buonaseraatthejam.co.uk/,"AMEX, Mastercard, Visa","
+289A Kings Road", London," SW3 5EW
+",True,False,False
+157,226,"
+Picture Fitzrovia
+",Modern European,Casual Dining,+44 20 7637 7892,http://picturerestaurant.co.uk/,"AMEX, Mastercard, Visa","
+110 Great Portland Street", London," W1W 6PQ
+",True,False,False
+158,227,"
+Red Rooster Shoreditch
+","Soul food, South American, Comfort food",Casual Dining,+44 20 3146 4545,http://www.thecurtain.com/,"AMEX, Mastercard, Visa","
+45 Curtain Road", London," EC2A 3PT
+",True,False,False
+160,229,"
+Cattle & Co.
+","Barbecue, Bar / Lounge / Bottle Service, American",Casual Dining,+44 20 7693 7278,http://www.cattleandco.com/,"Mastercard, Visa","
+3-9 Chalton Street", London," NW1 1JD
+",True,False,False
+161,231,"
+Pho House Highbury
+",Vietnamese,Casual Dining,+44 20 7697 9889,http://www.phohouse.uk/,"Mastercard, Visa","
+39 Holloway Road", London," N7 8JP
+",True,False,False
+162,232,"
+Village Masaleh
+",Indian,Casual Dining,+44 20 8623 9898,http://www.village-masaleh.co.uk/,"Mastercard, Visa","
+182A Norwood Road", London," SE27 9AU
+",True,False,False
+163,233,"
+Efes Meze
+","Turkish, Mediterranean, Greek",Casual Dining,+44 20 8293 0626,http://www.efesmeze.com/,"Mastercard, Visa","
+Efes Meze", London," SE10 9TZ
+",True,False,False
+164,234,"
+Demartino
+",Italian,Casual Dining,+44 20 7436 2547,http://www.demartino.co.uk/,"AMEX, Mastercard, Visa","
+196-198 Great Portland Street", London," W1W 5QF
+",True,False,False
+165,235,"
+Eneko – Basque Kitchen & Bar
+","Basque, Spanish",Casual Dining,+44 20 7300 0300,http://www.eneko.london/,"AMEX, Mastercard, Visa","
+One Aldwych", London," WC2B 4BZ
+",True,False,False
+166,236,"
+Craft London
+","British, Vegetarian, Contemporary British",Casual Dining,+44 20 8465 5910,http://www.craft-london.co.uk/,"Mastercard, Visa","
+Pennisula Square", London," SE10 0SQ
+",True,False,False
+167,237,"
+Hack & Veldt
+","European, Deli, Wine Bar",Casual Dining,+44 20 8742 0563,http://hackandveldt.com/,"Mastercard, Visa","
+94 Turnham Green Terrace", London," W4 1QN
+",True,False,False
+168,238,"
+Al Basha
+","Middle Eastern, Lebanese, Egyptian",Casual Dining,+44 20 7245 6000,http://www.albasha.uk/,"AMEX, Mastercard, Visa","
+48 Knightsbridge", London," SW1X 7JN
+",True,False,False
+169,240,"
+Mother Mash Carnaby
+",British,Casual Dining,+44 20 7494 9644,http://www.mothermash.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+26 Ganton Street", London," W1F 7QZ
+",True,False,False
+170,243,"
+ULI
+","Asian, Chinese, Thaï",Casual Dining,+44 20 3141 5878,http://ulilondon.com/,"AMEX, Mastercard, Visa","
+5 Ladbroke Road", London," W11 3PA
+",True,False,False
+171,245,"
+Carousel
+",Contemporary European,Casual Dining,+44 20 7487 5564,http://www.carousel-london.com/,"Mastercard, Visa","
+71 Blandford Street Mayfair", London," W1U 8AB
+",True,False,False
+173,247,"
+O Ver Borough
+",Italian,Casual Dining,+44 20 7378 9933,http://www.overuk.com/,"AMEX, Cash not accepted, Mastercard, Visa","
+44-46 Southwark Street", London," SE1 1UN
+",True,False,False
+174,248,"
+Gotto Trattoria
+",Italian,Casual Dining,+44 20 3424 5035,http://www.gotto.co.uk/,"AMEX, Mastercard, Visa","
+Canalside 27 East Bay Lane", London," E20 3BS
+",True,False,False
+175,249,"
+Clipstone
+","Modern European, Contemporary British",Casual Dining,+44 20 7637 0871,http://www.clipstonerestaurant.co.uk/,"AMEX, Mastercard, Visa","
+Bolsover House", London," W1W 6BB
+",True,False,False
+176,250,"
+Breddos Tacos Clerkenwell
+","Mexican, Tapas / Small Plates, Unspecified",Casual Dining,+44 20 3535 8301,http://www.breddostacos.com/,"AMEX, Mastercard, Visa","
+82 Goswell Road", London," EC1V 7DB
+",True,False,False
+177,251,"
+Sultan Sofrasi
+",Turkish,Casual Dining,+44 20 8983 9784,http://www.sultansofrasi.co.uk/,"Mastercard, Visa","
+72 Parnell Road Bow Church", London," E3 2RU
+",True,False,False
+178,252,"
+Suvlaki Soho
+","Greek, Barbecue, Mediterranean",Casual Dining,+44 20 7000 0000,http://www.suvlaki.co.uk/,"Mastercard, Visa","
+21 Bateman Street", London," W1D 3AL
+",True,False,False
+179,253,"
+Florentine Trattoria
+","Italian, Pizzeria",Casual Dining,+44 20 3146 5800,http://www.florentinerestaurant.co.uk/,"AMEX, Diners Club, Discover, JCB, Mastercard, Visa","
+6 Hercules Road", London," SE1 7DP
+",True,False,False
+181,255,"
+Pho House Kingsland
+",Vietnamese,Casual Dining,+44 20 7033 0588,http://www.phohouse.uk/,"Mastercard, Visa","
+102 Kingsland Road", London," E2 8DP
+",True,False,False
+182,257,"
+Meridionale
+","Italian, Pizzeria, Regional American (Southern)",Casual Dining,+44 20 3105 1699,http://www.meridionale.london/,"AMEX, Mastercard, Visa","
+311 New Kings Road", London," SW6 4RF
+",True,False,False
+183,258,"
+Oldroyd
+","European, Modern European",Casual Dining,+44 20 8617 9010,http://www.oldroydlondon.com/,"AMEX, Mastercard, Visa","
+344 Upper Street", London," N1 0PD
+",True,False,False
+184,259,"
+Picture Marylebone
+",Modern European,Casual Dining,+44 20 7935 0058,http://picturerestaurant.co.uk/,"AMEX, Mastercard, Visa","
+19 New Cavendish Street", London," W1G 9TZ
+",True,False,False
+186,263,"
+Big Catch
+","Fish, British",Casual Dining,+44 20 8663 6635,http://www.bigcatchbeckenham.com/,"JCB, Mastercard, Visa","
+202-204 High Street", London," BR3 1EN
+",True,False,False
+188,267,"
+Kasturi Restaurant
+",Indian,Casual Dining,+44 20 8319 3439,http://www.kasturi-restaurant.co.uk/index.asp,"Mastercard, Visa","
+10 The Village", London," SE7 8UD
+",True,False,False
+190,273,"
+The Chelsea Cellar
+",Italian,Casual Dining,+44 20 7351 4933,http://www.thechelseacellar.co.uk/,"AMEX, Mastercard, Visa","
+9 Park Walk", London," SW10 0AJ
+",True,False,False
+191,274,"
+Afternoon Tea at The May Fair Hotel
+","Afternoon Tea, British",Casual Dining,+44 20 7915 3894,https://www.thekitchensrestaurants.co.uk/may-fair-kitchen,"AMEX, Mastercard, Visa","
+Stratton Street", London," W1J 8LT
+",True,False,False
+192,275,"
+Afternoon Tea at Leicester Square Kitchen
+","Unspecified, Mexican, Peruvian",Casual Dining,+44 20 7666 0902,https://www.thekitchensrestaurants.co.uk/leicester-square-kitchen,"AMEX, Mastercard, Visa","
+31-36 Leicester Square", London," WC2H 7LH
+",True,False,False
+193,276,"
+Spiritland King's Cross
+",Modern European,Casual Dining,+44 20 3319 0050,http://www.spiritland.com/,"AMEX, Mastercard, Visa","
+9-10 Stable Street", London," N1C 4AB
+",True,False,False
+195,279,"
+Bar20 at Birleys
+","British, European",Casual Dining,+44 20 7929 1849,http://www.bar20.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+20 Fenchurch Street Pocket Park", London," EC3M 3BY
+",True,False,False
+196,281,"
+Evans & Peel Detective Agency
+","Cocktail bar, Tapas / Small Plates, Speakeasy",Casual Dining,+44 20 7370 5378,http://www.evansandpeel.com/,"AMEX, Diners Club, Mastercard, Visa","
+310C Earls Court Road", London," SW5 9BA
+",True,False,False
+197,283,"
+SMOKESTAK
+",Barbecue,Casual Dining,+44 20 3873 1733,http://smokestak.co.uk/,"AMEX, Mastercard, Visa","
+35 Sclater St", London," E1 6LB
+",True,False,False
+198,284,"
+Sakagura
+","Japanese, Sushi, Barbecue",Casual Dining,+44 20 3405 7230,http://www.sakaguralondon.com/,"AMEX, JCB, Mastercard, Visa","
+8 Heddon Street", London," W1B 4BS
+",True,False,False
+200,287,"
+Signoria
+",Italian,Casual Dining,+44 20 7564 3800,http://www.signoria.co.uk/home.html,"AMEX, Diners Club, Mastercard, Visa","
+53 Lordship Lane East Dulwich", London," SE22 8EP
+",True,False,False
+201,288,"
+Melanzana
+","Italian, Pizzeria",Casual Dining,+44 20 7228 5420,http://www.melanzana.co.uk/,"AMEX, Diners Club, Discover, JCB, Mastercard, Visa","
+140 Westbridge Road", London," SW11 3PF
+",True,False,False
+202,289,"
+Sowa Restaurant & Patisserie
+","Italian, Pizzeria",Casual Dining,+44 20 7228 5420,http://www.melanzana.co.uk/,"Mastercard, Visa","
+32-33 High Street", London," W5 5DB
+",True,False,False
+203,290,"
+Lobos Meat & Tapas - Soho
+","Spanish, Tapas / Small Plates",Casual Dining,+44 20 3019 5082,http://www.lobostapas.co.uk/,"AMEX, Mastercard","
+48 Frith Street", London," W1D 4SF
+",True,False,False
+204,291,"
+Trio Pizzeria
+",Italian,Casual Dining,+44 20 8835 8455,http://www.triopizzeria-uk.com/,"AMEX, Mastercard, Visa","
+19 The High Parade", London," SW16 1EX
+",True,False,False
+206,296,"
+Booma
+","Contemporary Indian, Indian, Bar / Lounge / Bottle Service",Casual Dining,+44 20 7737 4999,http://www.booma-brixton.co.uk/,"AMEX, Mastercard, Visa","
+244 Brixton Road", London," SW9 6AH
+",True,False,False
+207,297,"
+Bacaro
+",Italian,Casual Dining,+44 20 8980 0111,http://www.bacaro387.co.uk/,"Mastercard, Visa","
+387 Roman Road", London," E3 5QR
+",True,False,False
+208,299,"
+Afternoon Tea at Aster Cafe
+","Afternoon Tea, Contemporary French, Contemporary European",Casual Dining,+44 20 3875 5555,http://aster-restaurant.com/,"Mastercard, Visa","
+150 Victoria Street", London," SW1E 5LB
+",True,False,False
+209,300,"
+Casa Tua King's Cross
+","Italian, Breakfast, Mediterranean",Casual Dining,+44 20 7833 1483,http://www.casatualondon.com/,"Diners Club, Mastercard, Visa","
+106-108 Cromer St", London," WC1H 8BZ
+",True,False,False
+210,301,"
+Rubio
+","Pizzeria, Italian",Casual Dining,+44 20 8961 9630,http://www.rubio.co.uk/,"AMEX, Mastercard, Visa","
+43 Park Parade", London," NW10 4JD
+",True,False,False
+211,303,"
+Bistro Mirey
+","Bistro, French / Japanese, Comfort food",Casual Dining,+44 20 3092 6969,http://www.bistromirey.com/,"AMEX, Mastercard, Visa","
+98 Lillie Road", London," SW6 7SR
+",True,False,False
+213,305,"
+The Lion
+","Contemporary European, Pizzeria",Casual Dining,+44 20 7623 8468,http://lionec3.co.uk/,"AMEX, Mastercard, Visa","
+31 Houndstitch", London," EC3A 7DB
+",True,False,False
+214,306,"
+Bayroot
+","Lebanese, European",Casual Dining,+44 20 7998 4030,http://www.bayrootrestaurant.co.uk/,"Diners Club, Mastercard, Visa","
+8 Camberwell Road", London," SE5 0EN
+",True,False,False
+215,307,"
+Hammer & Tongs
+","Meat, Barbecue, Southern African",Casual Dining,+44 20 3774 2884,http://www.hammertongs.co.uk/,"AMEX, Mastercard, Visa","
+171 Farringdon Road", London," EC1R 3AL
+",True,False,False
+216,308,"
+Marsha Soho
+","Rotisserie Chicken, Burgers, British",Casual Dining,+44 20 3747 9820,https://www.marshalondon.co.uk/marsha-soho,"AMEX, Mastercard, Visa","
+Kingly Court Carnaby Street", London," W1B 5PW
+",True,False,False
+218,310,"
+Arthur Hooper's
+","Contemporary European, British",Casual Dining,+44 20 7940 0169,http://arthurhoopers.co.uk/,"Mastercard, Visa","
+8 Stoney Street", London," SE1 9AA
+",True,False,False
+219,311,"
+Le Relais de Venise - Soho (London)
+","Steak, French, Steakhouse",Casual Dining,+44 20 3475 4202,http://www.relaisdevenise.com/,"AMEX, Mastercard, Visa","
+50 Dean St.", London," W1D 5BQ
+",True,False,False
+220,312,"
+Casa Tua Camden
+","Italian, Breakfast",Casual Dining,+44 20 8127 0460,http://www.casatualondon.com/,"Diners Club, Mastercard, Visa","
+176 Royal College Street", London," NW1 0SP
+",True,False,False
+222,316,"
+Sardine
+","French, Mediterranean, European",Casual Dining,+44 20 7490 0144,http://www.sardine.london/,"AMEX, Mastercard, Visa","
+15 Micawber Street", London," N1 7TB
+",True,False,False
+223,317,"
+Rail House Victoria
+","Modern European, International, Pan-Asian",Casual Dining,+44 20 3906 7950,http://www.riding.house/restaurant/victoria#menus,"AMEX, Mastercard, Visa","
+8 Sir Simon Milton Square", London," SW1E 5DJ
+",True,False,False
+224,318,"
+Pho Saigon
+","Vietnamese, Asian, Southeast Asian",Casual Dining,+44 20 3659 8143,http://www.phosaigon.co.uk/,"Mastercard, Visa","
+41 Bond Street", London," W5 5AS
+",True,False,False
+225,319,"
+L' Antipasto - Battersea
+","Vietnamese, Asian, Southeast Asian",Casual Dining,+44 20 3659 8143,http://www.phosaigon.co.uk/,"AMEX, Mastercard, Visa","
+511 Battersea Park Road", London," SW11 3BW
+",True,False,False
+226,321,"
+Lena's
+","Italian, Pizzeria",Casual Dining,+44 20 7622 2788,http://www.lenasbarandkitchen.co.uk/,"AMEX, Mastercard, Visa","
+39 Queenstown Road", London," SW8 3RE
+",True,False,False
+227,322,"
+Yashin Ocean House
+","Japanese, Japanese Speciality",Casual Dining,+44 20 7373 3990,http://www.yashinocean.com/,"AMEX, JCB, Mastercard, Visa","
+117 - 119 Old Brompton Road", London," SW7 3RN
+",True,False,False
+228,323,"
+Busaba Bangkok Thai – St Christopher’s Place
+",Thaï,Casual Dining,+44 20 7518 8080,http://www.busaba.com/,"Mastercard, Visa","
+8-13 Bird Street", London," W1U 1BU
+",True,False,False
+229,326,"
+Le Petit Sud
+","French, Bistro, Wine Bar",Casual Dining,+44 20 7589 0030,http://www.lepetitsud.co.uk/,"AMEX, Mastercard, Visa","
+1D Palace Gate", London," W8 5LS
+",True,False,False
+230,327,"
+Pho & Bun
+","Asian, Vietnamese",Casual Dining,+44 20 3230 1086,http://vieteat.co.uk/pho-bun,"AMEX, Mastercard, Visa","
+76 Shaftesbury Avenue", London," W1D 6ND
+",True,False,False
+231,328,"
+Viet Eat - Holborn
+","Asian, Vietnamese",Casual Dining,+44 20 7404 4138,http://www.vieteat.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+48 Kingsway", London," WC2B 6EP
+",True,False,False
+232,329,"
+Villa Toscana
+",Italian,Casual Dining,+44 20 8692 3804,http://www.restaurantvillatoscana.co.uk/,"Mastercard, Visa","
+179 Brockley Road", London," SE4 2RS
+",True,False,False
+233,330,"
+The Vault Bar & Lounge at The Ned – Previews
+",Italian,Casual Dining,+44 20 3828 2000,http://www.thened.com/restaurants#,"AMEX, Mastercard, Visa","
+27 Poultry", London," EC2R 8AJ
+",True,False,False
+234,332,"
+Mattarello Bolognese
+","Italian, Contemporary European, Steak",Casual Dining,+44 20 7247 3354,http://www.sfogliabologna.uk/,"AMEX, Diners Club, Discover, JCB, Mastercard, Visa","
+3 Middlesex Street", London," E1 7AA
+",True,False,False
+235,333,"
+The Old Bull & Bush
+","Gastro Pub, English",Casual Dining,+44 20 8905 5456,https://www.thebullandbush.co.uk/,"Diners Club, Mastercard, Visa","
+Elmwood North End Way", London," NW3 7HE
+",True,False,False
+236,334,"
+Chicken Society
+",British,Casual Dining,+44 20 8349 1453,http://www.chickensociety.co.uk/,"Mastercard, Visa","
+363 Regents Park Road", London," N3 1DH
+",True,False,False
+237,335,"
+Ritorno
+","Italian, Bar / Lounge / Bottle Service, Comfort food",Casual Dining,+44 20 3301 6333,http://www.ritorno.co.uk/,"AMEX, Mastercard, Visa","
+442 King's Rd", London," SW10 0LQ
+",True,False,False
+239,339,"
+Jashan
+",Indian,Casual Dining,+44 20 8340 9880,http://www.jashan.co.uk/,"Mastercard, Visa","
+19 Turnpike Lane", London," N8 0EP
+",True,False,False
+240,340,"
+Canada Water Cafe
+","Italian, Pizzeria",Casual Dining,+44 20 3668 7518,http://www.canadawatercafe.com/,"AMEX, Mastercard, Visa","
+40 Surrey Quays Road", London," SE16 7DX
+",True,False,False
+241,341,"
+Plough Way Cafe
+",Italian,Casual Dining,+44 20 7237 1327,http://www.ploughwaycafe.com/,"AMEX, Mastercard, Visa","
+1 Seafarer Way", London," SE16 7EZ
+",True,False,False
+242,342,"
+Gurkhas Diner
+","Nepalese, Asian",Casual Dining,+44 20 8675 1188,http://gurkhasdiner.co.uk/,"Mastercard, Visa","
+1 The Boulevard Balham High Road", London," SW17 7BW
+",True,False,False
+243,343,"
+Belgrave Restaurant
+","Persian, Mediterranean, Halal",Casual Dining,+44 20 7624 4242,http://www.belgraverestaurant.com/index.html,"Mastercard, Visa","
+1 Belgrave Gardens", London," NW8 0QY
+",True,False,False
+244,344,"
+La Rueda de Tapas
+","Tapas / Small Plates, Spanish, Mediterranean",Casual Dining,+44 20 8567 4219,http://www.laruedadetapas.com/,"AMEX, Mastercard, Visa","
+12 Bond Street Ealing", London," W5 5AA
+",True,False,False
+245,347,"
+Farmacy
+",English,Casual Dining,+44 20 7221 0705,http://www.farmacylondon.com/,"AMEX, Mastercard, Visa","
+74 Westbourne Grove", London," W2 5SH
+",True,False,False
+246,349,"
+Estrela Bar
+","Portuguese, Tapas / Small Plates",Casual Dining,+44 20 7793 1051,http://estrelabar.com/,"AMEX, Mastercard, Visa","
+111 South Lambeth Road", London," SW8 1UZ
+",True,False,False
+247,350,"
+Blacklock City
+","Steak, Barbecue, British",Casual Dining,+44 20 7998 7676,http://theblacklock.com/,"AMEX, Mastercard, Visa","
+13 Philpot Lane", London," EC3M 8AA
+",True,False,False
+249,352,"
+Tamarind Kitchen Soho
+",Indian,Casual Dining,+44 20 7287 4243,http://www.tamarindkitchen.co.uk/,"AMEX, Mastercard, Visa","
+167-169 Wardour Street", London," W1F 8WR
+",True,False,False
+251,354,"
+Comptoir Libanais - Poland Street
+","Lebanese, Middle Eastern, Comfort food",Casual Dining,+44 20 7434 4335,http://www.comptoirlibanais.com/,"AMEX, Mastercard, Visa","
+52 Poland Street", London," W1F 7NQ
+",True,False,False
+252,355,"
+Busaba Eathai - Leicester Square
+","Thaï, Fusion / Eclectic",Casual Dining,+44 20 7930 0088,http://www.busaba.com/locations/busaba-leicester-square,"Mastercard, Visa","
+35 Panton Street", London," SW1Y 4EA
+",True,False,False
+253,357,"
+Meet District
+","Contemporary British, Steakhouse",Casual Dining,+44 20 7564 7215,http://www.meetdistrict.co.uk/,"AMEX, Mastercard, Visa","
+125 Queens Road Peckham", London," SE15 2ND
+",True,False,False
+254,358,"
+The Little Square
+","International, Modern European",Casual Dining,+44 20 7355 2101,http://www.thelittlesquare.co.uk/,"AMEX, Mastercard, Visa","
+3 Shepherd Market", London," W1J 7PB
+",True,False,False
+255,359,"
+Kappa Sushi
+",Sushi,Casual Dining,+44 20 7244 9196,http://www.kappasushi.co.uk/,"Mastercard, Visa","
+139 Earls Court", London," SW5 9RH
+",True,False,False
+256,360,"
+Amjadia Indian Restaurant
+","Indian, Halal",Casual Dining,+44 20 7935 0885,http://www.amjadia.co.uk/,"Mastercard, Visa","
+15 Picton Place", London," W1U 1BW
+",True,False,False
+257,363,"
+Lupins
+",British,Casual Dining,+44 20 3908 5888,http://www.lupinslondon.com/,"AMEX, Mastercard, Visa","
+66 Union Street", London," SE1 1TD
+",True,False,False
+258,364,"
+33 Abbeville Road
+",Contemporary British,Casual Dining,+44 20 8673 0977,http://www.33abbevilleroad.co.uk/,"Mastercard, Visa","
+33 Abbeville Road", London," SW4 9LA
+",True,False,False
+259,366,"
+Korova Restaurant
+","Contemporary European, French",Casual Dining,+44 7931 903779,http://www.korovarestaurant.com/,"AMEX, Mastercard, Visa","
+9 Campdale Road", London," N7 0EA
+",True,False,False
+262,369,"
+The Grill Restaurant
+",Grill,Casual Dining,+44 20 8996 5200,http://www.claytonhotelchiswick.com/,"AMEX, Mastercard, Visa","
+626 Chiswick High Road", London," W4 5RY
+",True,False,False
+263,370,"
+The Pimlico Grid
+","Breakfast, British, European",Casual Dining,+44 20 7834 5163,http://www.thepimlicogrid.com/,"AMEX, Mastercard, Visa","
+142-144 Warwick Way", London," SW1V 4JE
+",True,False,False
+264,371,"
+Farang London
+",Thaï,Casual Dining,+44 20 7226 1609,http://www.faranglondon.co.uk/,"Mastercard, Visa","
+72 Highbury Park", London," N5 2XE
+",True,False,False
+265,372,"
+The Cork & Bottle - Paddington
+","Contemporary European, Comfort food, British",Casual Dining,+44 20 7262 1485,http://www.thecorkandbottle.co.uk/paddington/,"AMEX, Mastercard, Visa","
+27 Spring Street", London," W2 1JA
+",True,False,False
+269,377,"
+Foley's Restaurant
+","Asian, Thaï, Tapas / Small Plates",Casual Dining,+44 20 7636 4562,http://foleysrestaurant.co.uk/,"AMEX, Mastercard, Visa","
+23 Foley Street", London," W1W 6DU
+",True,False,False
+270,378,"
+The Italian Job Chiswick
+","Italian, Contemporary Italian, Pub",Casual Dining,+44 20 8994 2852,http://www.theitalianjobpub.co.uk/,"AMEX, Mastercard, Visa","
+13 Devonshire Road Chiswick", London," W4 2EU
+",True,False,False
+271,379,"
+Champs Sports Bar & Grill- Ilford
+",American,Casual Dining,+44 20 8553 5114,http://www.champsilford.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+19-21 Chapel Road", London," IG1 2AF
+",True,False,False
+272,380,"
+Senor Ceviche - Charlotte Street
+","Peruvian, Latin American, Tapas / Small Plates",Casual Dining,+44 20 7842 8540,http://www.senor-ceviche.com/,"AMEX, Mastercard, Visa","
+18 Charlotte Street", London," W1T 2LZ
+",True,False,False
+275,386,"
+Fancy Crab
+","Seafood, Burgers, International",Casual Dining,+44 20 3096 9484,http://www.fancycrab.co.uk/,"AMEX, Mastercard, Visa","
+92 Wigmore Street", London," W1U 3Rd
+",True,False,False
+276,388,"
+Patara - Wimbledon
+","Thaï, Asian, Cocktail bar",Casual Dining,+44 20 3149 2911,http://www.pataralondon.com/,"AMEX, Mastercard, Visa","
+18 High Street", London," SW19 5DX
+",True,False,False
+277,389,"
+Nippon Izakaya
+","Japanese, Sushi",Casual Dining,+44 20 8343 9008,http://nipponizakaya.co.uk/,"Mastercard, Visa","
+843 High Road", London," N12 8PT
+",True,False,False
+279,391,"
+Riverside Fish and Steak House
+","Seafood, Steak, Fish",Casual Dining,+44 1322 336460,https://www.riversidefishandsteakhouseerith.co.uk/,"AMEX, Mastercard, Visa","
+16 Town Square", London," DA8 1RE
+",True,False,False
+280,392,"
+Sushi Bar Atariya
+","Sushi, Japanese",Casual Dining,+44 20 7328 5338,http://www.sushibaratariya.co.uk/swiss-cottage.html,"Mastercard, Visa","
+75 Fairfax Road", London," NW6 4EE
+",True,False,False
+282,394,"
+Comptoir Café and Wine
+","Wine Bar, French",Casual Dining,+44 20 7499 9800,http://www.comptoir-cafe-and-wine.co.uk/,"AMEX, Mastercard, Visa","
+21-22 Weighhouse Street", London," W1K 5LY
+",True,False,False
+283,395,"
+Camino Shoreditch
+",Spanish,Casual Dining,+44 20 3948 5003,http://www.camino.uk.com/,"AMEX, Mastercard, Visa","
+2 Curtain Road", London," EC2A 3BL
+",True,False,False
+285,398,"
+The Wigmore
+",Pub,Casual Dining,+44 20 7965 0198,http://www.the-wigmore.co.uk/,"AMEX, Mastercard, Visa","
+15 Langham Place Upper Regent Street", London," W1B 1JA
+",True,False,False
+286,399,"
+Delamina
+","Mediterranean, Middle Eastern, Home cooking",Casual Dining,+44 20 3026 6810,http://www.delaminamarylebone.co.uk/,"AMEX, Diners Club, JCB, Mastercard, Visa","
+56-58 Marylebone Lane", London," W1U 2NX
+",True,False,False
+287,400,"
+Omnino Brazilian Barbecue
+","Steak, South American, Latin American",Casual Dining,+44 20 3490 3132,http://www.omninorestaurants.com/,"AMEX, Mastercard, Visa","
+7-9 St Bride Street", London," EC4A 4AS
+",True,False,False
+288,402,"
+VQ Aldgate
+",International,Casual Dining,+44 20 3301 7224,https://www.vqrestaurants.com/locations/aldgate,"AMEX, Mastercard, Visa","
+9 Aldgate High St", London," EC3N 1AH
+",True,False,False
+289,403,"
+Stecca
+",Italian,Casual Dining,+44 20 7460 2322,http://www.stecca.co.uk/,"AMEX, Mastercard, Visa","
+14 Hollywood Road", London," SW10 9HY
+",True,False,False
+290,404,"
+El Vino Olde Wine Shades
+","Tapas / Small Plates, Mediterranean, Winery",Casual Dining,+44 20 7626 6876,https://www.davy.co.uk/wine-bar/the-olde-wine-shades/,"AMEX, Mastercard, Visa","
+6 Martin Lane", London," EC4R 0DP
+",True,False,False
+291,405,"
+Go Viet
+","Vietnamese, Asian, Fusion / Eclectic",Casual Dining,+44 20 7589 6432,http://vietnamfood.co.uk/,"AMEX, Mastercard, Visa","
+53 Old Brompton Road", London," SW7 3JS
+",True,False,False
+292,406,"
+Artesian Bar
+","Bar / Lounge / Bottle Service, Burgers, Tapas / Small Plates",Casual Dining,+44 20 7636 1000,http://www.artesian-bar.co.uk/,"AMEX, Mastercard, Visa","
+1C Portland Place", London," W1B 1JA
+",True,False,False
+293,409,"
+Tanakatsu
+","Japanese, Sushi",Casual Dining,+44 121 389 4111,http://tanakatsu.co.uk/,"Mastercard, Visa","
+10 Wakley Street", London," EC1V 7LT
+",True,False,False
+294,411,"
+Bordelaise
+","French, Steakhouse, Regional French (Southwestern)",Casual Dining,+44 20 8767 5008,http://bordelaise.co.uk/,"Mastercard, Visa","
+Units 9-11 Broadway Market", London," SW17 0RJ
+",True,False,False
+296,416,"
+Navarro's Restaurant
+","Spanish, Tapas / Small Plates",Casual Dining,+44 20 7637 7713,http://www.navarros-tapas-london.co.uk/,"AMEX, Mastercard, Visa","
+67 Charlotte Street", London," W1T 4PH
+",True,False,False
+297,417,"
+Dirty Bones Soho
+","American, Comfort food, Burgers",Casual Dining,+44 20 3019 9064,http://www.dirty-bones.com/,"Mastercard, Visa","
+14 Denman Street", London," W1D 7HJ
+",True,False,False
+298,418,"
+Dirty Bones Carnaby
+","American, Comfort food, Burgers",Casual Dining,+44 20 3019 9062,http://www.dirty-bones.com/,"Mastercard, Visa","
+Top Floor", Kingly Court Carnaby Street, London,True,False,False
+299,419,"
+Dirty Bones Shoreditch
+","American, Comfort food, Burgers",Casual Dining,+44 20 3019 9063,http://www.dirty-bones.com/,"Mastercard, Visa","
+1 Club Row", London," E1 6JX
+",True,False,False
+301,421,"
+Afternoon Tea At Park Terrace
+",Afternoon Tea,Casual Dining,+44 20 7361 0602,http://www.royalgardenhotel.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+2-24 Kensington High Street", London," W8 4PT
+",True,False,False
+302,422,"
+Dukes London - Afternoon Tea
+",Afternoon Tea,Casual Dining,+44 20 7361 0602,http://www.royalgardenhotel.co.uk/,"AMEX, Mastercard, Visa","
+35 Saint James's Place", London," SW1A 1NY
+",True,False,False
+303,423,"
+Curtis Caribbean Grill & Specialty Cakes
+",Caribbean,Casual Dining,+44 20 3489 9119,http://www.facebook.com/curtiscaribbean,"Mastercard, Visa","
+216 Middle Lane", London," N8 7LA
+",True,False,False
+306,432,"
+The Grafton Arms
+",Gastro Pub,Casual Dining,+44 20 7387 7923,http://www.graftonarms.co.uk/,"AMEX, Mastercard, Visa","
+72 Grafton Way", London," W1T 5DU
+",True,False,False
+307,433,"
+Piccola Italia Ealing
+","Italian, Vegan, Seafood",Casual Dining,+44 20 8840 0700,http://www.piccolaitaliaealing.com/,"AMEX, Mastercard, Pay with OpenTable, Visa","
+21 The Green", London," W5 5DA
+",True,False,False
+308,434,"
+Tupi
+","Global, International, South American, Italian",Casual Dining,+44 20 7635 5949,http://tupilondon.com/,"AMEX, Mastercard, Visa","
+206 Rye Lane", London," SE15 4NL
+",True,False,False
+309,435,"
+The Running Horse
+",British,Casual Dining,+44 20 3883 8286,http://www.therunninghorsealdgate.co.uk/,"AMEX, Mastercard, Visa","
+7 Piazza Walk Leman Street", London," E1 8FU
+",True,False,False
+311,438,"
+Fiume
+",Italian,Casual Dining,+44 20 3904 9010,http://www.fiume-restaurant.co.uk/,"Mastercard, Visa","
+Circus West", London," SW8 5BN
+",True,False,False
+312,440,"
+Moc Kitchen
+",Vietnamese,Casual Dining,+44 20 7839 1420,http://mockitchen.co.uk/,"AMEX, Mastercard, Visa","
+Unit 2",9,10 The Arches,True,False,False
+313,441,"
+The Drunken Butler
+","French, Persian",Casual Dining,+44 20 7101 4020,http://www.thedrunkenbutler.com/,"AMEX, Mastercard, Visa","
+20 Rosebery Avenue", London," EC1R 4SX
+",True,False,False
+314,442,"
+Dirty Bones Kensington
+","American, Comfort food, Burgers",Casual Dining,+44 20 3019 9061,http://www.dirty-bones.com/,"Mastercard, Visa","
+20 Kensington Church Street", London," W8 4EP
+",True,False,False
+315,443,"
+Afternoon Tea at Fifth Floor Bar
+",Afternoon Tea,Casual Dining,+44 20 7235 5250,http://www.harveynichols.com/restaurant/knightsbridge-dining/cafe-and-terrace,"AMEX, Mastercard, Visa","
+109-125 Knightsbridge Belgravia", London," SW1X 7RJ
+",True,False,False
+316,444,"
+Fifth Floor Bar at Harvey Nichols Knightsbridge
+",Modern European,Casual Dining,+44 20 7823 1839,https://www.harveynichols.com/restaurant/knightsbridge-dining/fifth-floor-bar/,"AMEX, Mastercard, Visa","
+109-125 Knightsbridge", London," SW1X 7RJ
+",True,False,False
+317,445,"
+Indian Moment – Battersea Rise
+","Indian, Contemporary Indian, Halal",Casual Dining,+44 20 7223 6575,http://www.indianmoment.co.uk/,"AMEX, Mastercard, Visa","
+44 Battersea Rise", London," SW11 1EE
+",True,False,False
+318,446,"
+Rambla
+","Spanish, French, Fusion / Eclectic",Casual Dining,+44 20 7734 8428,http://ramblalondon.com/,"AMEX, Mastercard, Visa","
+64 Dean Street", London," W1D 4QQ
+",True,False,False
+320,448,"
+Bread Centrale
+","Modern European, Contemporary European, Steak",Casual Dining,+44 20 7978 5055,http://breadcentrale.co.uk/,"Mastercard, Visa","
+Unit C Moasses House Plantation Wharf", Cotton Row, London,True,False,False
+321,449,"
+Zizzi - Westfield
+",Italian,Casual Dining,+44 20 8740 3222,http://www.zizzi.co.uk/italian/restaurants/london/shephards-bush,"AMEX, Mastercard, Visa","
+South West Mall Westfield White City", London," W12 7GB
+",True,False,False
+324,453,"
+Da Henrietta
+","Italian, Contemporary Italian, Regional Italian (Sardinia)",Casual Dining,+44 20 3794 5314,http://www.henriettahotel.com/,"AMEX, Mastercard, Visa","
+14-15 Henrietta Street", London," WC2E 8QH
+",True,False,False
+325,454,"
+ASK Italian London - Gloucester Arcade
+",Italian,Casual Dining,+44 20 3802 3325,http://www.askitalian.co.uk/restaurant/london-gloucester-arcade/,"Mastercard, Visa","
+23 - 24 Gloucester Arcade", London," SW7 4SF
+",True,False,False
+326,455,"
+ASK Italian London Park Street
+",Italian,Casual Dining,+44 20 3802 3035,http://www.askitalian.co.uk/restaurant/london-park-street/,"Mastercard, Visa","
+121 - 125 Park Street Marylebone", London," W1K 7JA
+",True,False,False
+327,456,"
+ASK Italian London Spice Quay
+",Italian,Casual Dining,+44 20 3092 0201,http://www.askitalian.co.uk/restaurant/london-spice-quay/,"Mastercard, Visa","
+34 Shad Thames Butlers Wharf", London," SE1 2YG
+",True,False,False
+328,457,"
+ASK Italian London Spring Street
+",Italian,Casual Dining,+44 20 3302 0915,http://www.askitalian.co.uk/restaurant/london-spring-street/,"Mastercard, Visa","
+41- 43 Spring Street", London," W2 1JA
+",True,False,False
+329,458,"
+ASK Italian Northwood
+",Italian,Casual Dining,+44 1923 903747,http://www.askitalian.co.uk/restaurant/northwood/,"Mastercard, Visa","
+35A Green Lane Northwood", London," HA6 2PX
+",True,False,False
+330,459,"
+Noizé
+","Modern European, French",Casual Dining,+44 20 7323 1310,http://www.noize-restaurant.co.uk/,"AMEX, Mastercard, Visa","
+39 Whitfield Street", London," W1T 2SF
+",True,False,False
+331,460,"
+The Great Chase
+","British, Farm-to-table",Casual Dining,+44 20 7998 0640,http://www.thegreatchase.co.uk/,"Mastercard, Visa","
+316 St. John Street", London," EC1V 4NT
+",True,False,False
+332,462,"
+Yucca
+",Tex-Mex,Casual Dining,+44 20 3080 0881,http://www.yucca-fulham.com/,"AMEX, Mastercard, Visa","
+496 Fulham Road", London," SW6 5NH
+",True,False,False
+333,464,"
+Vadi restaurant
+",Turkish,Casual Dining,+44 20 8882 2228,http://www.vadipalmersgreen.co.uk/,"Mastercard, Visa","
+430-434 Green Lanes Palmers Green", London," N13 5XG
+",True,False,False
+337,468,"
+Boxcar Bar & Grill
+","Steakhouse, Burgers, Steak",Casual Dining,+44 20 3006 7000,http://www.boxcar.co.uk/,"AMEX, Mastercard, Visa","
+23 New Quebec Street", London," W1H 7SD
+",True,False,False
+339,471,"
+Le Merlin
+",French,Casual Dining,+44 20 3489 2853,http://www.instagram.com/lemerlin_creperie/,"Mastercard, Visa","
+78 Lower Clapton Road", London," E5 0RN
+",True,False,False
+340,473,"
+Parsons
+","Fish, Seafood, Modern European",Casual Dining,+44 20 3422 0221,http://www.parsonslondon.co.uk/,"AMEX, Diners Club, Mastercard, Visa","
+39 Endell Street", London," WC2H 9BA
+",True,False,False
+341,474,"
+The Natural Kitchen Angel Court
+","British, Modern European, Continental",Casual Dining,+44 20 7374 8012,http://www.thenaturalkitchen.com/,"AMEX, Mastercard, Visa","
+1A Copthall Avenue", London," EC2R 7BH
+",True,False,False
+342,475,"
+The Natural Kitchen Aldersgate
+","British, Modern European, Continental",Casual Dining,+44 20 7600 7156,http://www.naturalkitchen.co.uk/london-aldersgate/,"AMEX, Mastercard, Visa","
+176 Aldersgate Street", London," EC1A 4HU
+",True,False,False
+343,476,"
+The Natural Kitchen Trinity Square
+","British, Modern European, Continental",Casual Dining,+44 20 7702 4038,https://www.naturalkitchen.co.uk/london-trinity-square/,"AMEX, Mastercard, Visa","
+7 Pepys Street", London," EC3N 4AF
+",True,False,False
+344,477,"
+The Natural Kitchen Baker Street
+","British, Modern European, Continental",Casual Dining,+44 20 7935 0987,http://www.naturalkitchen.co.uk/london-baker-street/,"AMEX, Mastercard, Visa","
+55 Baker Street", London," W1U 8EW
+",True,False,False
+345,478,"
+The Natural Kitchen St Katharine Docks
+","Modern European, British, Continental",Casual Dining,+44 20 7481 3308,http://www.naturalkitchen.co.uk/,"AMEX, Mastercard, Visa","
+1 Commodity Quay Tower Bridge", London," E1W 1AZ
+",True,False,False
+346,479,"
+Dhaba@49
+",Indian,Casual Dining,+44 20 3489 2424,http://dhaba49.com/,"Mastercard, Visa","
+49 Chippenham Road", London," W9 2AH
+",True,False,False
+347,485,"
+Bluebird Café White City
+","International, British",Casual Dining,+44 20 3940 0700,http://bluebirdcafe.co.uk/,"AMEX, Mastercard, Visa","
+Television Centre", London," W12 7FR
+",True,False,False
+348,487,"
+Emilia's Crafted Pasta - St Katharine Docks
+",Italian,Casual Dining,+44 20 7481 2004,http://www.emiliaspasta.com/,"Mastercard, Visa","
+Unit C3", Ivory House, London,True,False,False
+349,488,"
+Ezra's Kitchen
+",Italian,Casual Dining,+44 20 7481 2004,http://www.emiliaspasta.com/,"AMEX, Mastercard, Visa","
+185A High Road", London," N22 6BA
+",True,False,False
+350,489,"
+Firebrand Pizza
+",Italian,Casual Dining,+44 20 7724 6764,http://www.firebrandpizza.co.uk/,"Mastercard, Visa","
+41-43 Lisson Grove", London," NW1 6UB
+",True,False,False
+352,495,"
+India India
+","Indian, Contemporary Indian, Vegetarian",Casual Dining,+44 20 7353 2898,http://www.indiaindiarestaurant.co.uk/,"AMEX, Mastercard, Visa","
+8 Crane Court", London," EC4A 2EJ
+",True,False,False
+353,496,"
+Breddos Tacos Soho
+","Mexican, Tapas / Small Plates, Cocktail bar",Casual Dining,+44 20 3890 8545,http://www.breddostacos.com/,"AMEX, Mastercard, Visa","
+26 Kingly Street", London," W1B 5QD
+",True,False,False
+354,497,"
+P.F. Chang's Asian Table
+","Chinese, Japanese, Korean",Casual Dining,+44 20 3410 7500,http://www.pfchangs.co.uk/,"AMEX, Mastercard, Visa","
+10 Great Newport Street", London," WC2H 7JA
+",True,False,False
+355,498,"
+Wright Brothers Battersea
+","Seafood, British, Meat",Casual Dining,+44 20 7324 7734,https://thewrightbrothers.co.uk/pages/battersea-seafood-restaurant,"AMEX, Mastercard, Visa","
+26 Circus West Village Battersea Power Station", London," SW8 4NN
+",True,False,False
+356,499,"
+Arlo's Battersea
+","Steak, Vegetarian / Vegan, British",Casual Dining,+44 20 3019 3737,https://www.arlos.co.uk/,"Mastercard, Visa","
+47 Northcote Road", London," SW11 1NJ
+",True,False,False
